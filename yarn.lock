@@ -104,17 +104,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@actions/tool-cache@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "@actions/tool-cache@npm:2.0.1"
+"@actions/tool-cache@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "@actions/tool-cache@npm:2.0.2"
   dependencies:
-    "@actions/core": ^1.2.6
+    "@actions/core": ^1.11.1
     "@actions/exec": ^1.0.0
     "@actions/http-client": ^2.0.1
     "@actions/io": ^1.1.1
     semver: ^6.1.0
-    uuid: ^3.3.2
-  checksum: 33f6393b9b163e4af2b9759e8d37cda4f018f10ddda3643355bb8a9f92d732e5bdff089cf8036b46d181e1ef2b3210b895b2f746fdf54487afe88f1d340aa9e1
+  checksum: c2bab4297be752bdda9dd61f8159a201ad0d37d026134b960f1edcc9418a80387f44d1f24a070fe992c44dcfc28a152f70600e76669bb0578132789a6f37a596
   languageName: node
   linkType: hard
 
@@ -4428,7 +4427,7 @@ __metadata:
     "@actions/core": ^1.11.1
     "@actions/exec": ^1.1.1
     "@actions/http-client": ^2.2.3
-    "@actions/tool-cache": ^2.0.1
+    "@actions/tool-cache": ^2.0.2
     "@types/node": ^20.6.0
     "@typescript-eslint/eslint-plugin": ^6.6.0
     "@typescript-eslint/parser": ^6.6.0
@@ -5841,7 +5840,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uuid@npm:^3.3.2, uuid@npm:^3.3.3":
+"uuid@npm:^3.3.3":
   version: 3.4.0
   resolution: "uuid@npm:3.4.0"
   bin:
